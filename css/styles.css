@@ -5,7 +5,7 @@
     --secundario: #0097a7;
     --gris: #757575;
 
-    --fuente-principal: 3.8rem;
+    --fuente-titulo: 3.8rem;
 }
 
 
@@ -14,12 +14,13 @@ html {
 }
 body {
     font-size: 16px;  /*Ajustamos 1 rem = 10px*/
+    font-family: "Krub", sans-serif;
 }
 
 
 .titulo {
     text-align: center;
-    font-size: var(--fuente-principal);
+    font-size: var(--fuente-titulo);
 }
 
 .titulo span {
