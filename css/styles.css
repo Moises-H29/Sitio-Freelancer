@@ -37,3 +37,11 @@ body {
 .nav-bg {
     background-color: var(--secundario);
 }
+
+.navegacion-principal {
+    
+}
+
+.navegacion-principal a{
+    background-color: var(--primario);
+}
