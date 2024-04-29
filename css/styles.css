@@ -56,3 +56,15 @@ body {
     background-color: var(--primario);
     color: var(--oscuro);
 }
+
+@media (min-width: 480px) {
+    body {
+        background-color: blue;
+    }
+}
+
+@media (min-width: 768px) {
+    body {
+        background-color: cornflowerblue;
+    }
+}
